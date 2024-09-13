@@ -1,6 +1,7 @@
 #!/bin/bash
 
 curl 'http://localhost:4280/vulnerabilities/brute/?username=admin&password=jdshfj&Login=Login' \
+  -v -i \
   -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
   -H 'Accept-Language: en-US,en' \
   -H 'Connection: keep-alive' \
