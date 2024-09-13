@@ -7,7 +7,7 @@ password_file = "passwords.txt"
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36",
     "Content-Type": "application/x-www-form-urlencoded",
-    "Cookie": "PHPSESSID=069b3f23d067f01d683a26fa795d25d7;security=low"
+    "Cookie": "PHPSESSID=SESSION-ID-HERE;security=low"
 }
 
 
